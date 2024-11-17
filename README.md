@@ -60,9 +60,8 @@ customer-churn-prediction/
 │   ├── model.py              # Script for model training and evaluation
 │   └── explain.py            # Script for generating prediction explanations
 │
-├── requirements.txt          # List of dependencies
 ├── README.md                 # Project README file
-└── LICENSE                   # License file
+
 🔮 Future Enhancements
 
 Advanced Interpretability: Implement SHAP or LIME for more in-depth feature analysis.
@@ -73,5 +72,4 @@ User Interface: Develop a Streamlit or Flask app to make the solution interactiv
 Contributions are welcome! If you’d like to improve this project, feel free to fork the repository and submit a pull request. Please ensure your contributions align with the project’s goals and adhere to the code style guidelines.
 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
 Feel free to reach out if you have any questions or suggestions for the project. Happy coding! 😊
